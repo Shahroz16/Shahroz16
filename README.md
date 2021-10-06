@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer with aroud 9 years of experience in software development.
+I am a software engineer with around 9 years of experience in software development.
 
 What do I do?
 
